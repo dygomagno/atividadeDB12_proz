@@ -1,0 +1,18 @@
+Para fortalecer as senhas, é recomendado seguir 
+algumas práticas de segurança. Aqui estão três 
+métodos para melhorar as senhas:
+
+Comprimento: Use senhas longas, com pelo menos 12
+caracteres. Quanto mais longa a senha, mais difícil
+será para um atacante quebrá-la.
+
+Complexidade: Utilize uma combinação de letras maiúsculas 
+e minúsculas, números e caracteres especiais. Isso 
+aumenta a complexidade da senha e torna mais difícil 
+para um atacante adivinhá-la.
+
+Evitar informações pessoais: Evite usar informações 
+pessoais óbvias, como datas de nascimento, nomes de 
+familiares ou sequências simples de números ou letras. 
+Essas informações são fáceis de serem descobertas por 
+ataques de força bruta ou engenharia social.
